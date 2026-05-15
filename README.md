@@ -1,6 +1,6 @@
 # Hi, I'm Arman Gasparyan 👋
 
-I'm a Software Engineer based in Los Angeles, CA. I graduated with honors in Computer Science & Mathematics from Nova Southeastern University, where I also received the Outstanding Student Award.
+I'm a Software Engineer. I graduated with honors in Computer Science & Mathematics from Nova Southeastern University, where I also received the Outstanding Student Award.
 
 ## What I Build
 
