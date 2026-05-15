@@ -1,4 +1,4 @@
-# Hi, I'm Arman Gasparyan 👋
+# Hi 👋 I'm Arman Gasparyan 
 
 I'm a Software Engineer. I graduated with honors in Computer Science & Mathematics from Nova Southeastern University, where I also received the Outstanding Student Award.
 
