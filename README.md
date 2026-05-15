@@ -8,5 +8,5 @@ I'm constantly learning and pushing my skills forward — whether it's designing
 
 ## Connect
 
-- 🌐 Portfolio: [arman-gasparyan.vercel.app](https://arman-gasparyan.vercel.app)
+- 🌐 Personal Website: [arman-gasparyan.vercel.app](https://arman-gasparyan.vercel.app)
 - 💼 LinkedIn: [linkedin.com/in/arman-gasparyan](https://linkedin.com/in/arman-gasparyan)
